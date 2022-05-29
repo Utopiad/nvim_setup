@@ -1,0 +1,10 @@
+_G.utopiad = {}
+require('plugins')
+require('settings')
+require('utils')
+require('_treestitter')
+require('_gutentags')
+require('_telescope')
+require('_vgit')
+require('_lualine')
+require('maps')
